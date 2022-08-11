@@ -21,5 +21,5 @@ __Выполнила студентка:__ Гилимьянова Регина
  4. Нарисовать блок-схему
 
 # Ссылки:
-* Репозиторий [GitHub] ()
-* Блок-схема  [Scheme] (https://github.com/GalimyanovaRegina/PracticTask/blob/main/scheme.png)
+* Репозиторий [GitHub](https://github.com/GalimyanovaRegina/PracticTask)
+* Блок схема [Diagram](https://github.com/GalimyanovaRegina/PracticTask/blob/main/scheme.png)
